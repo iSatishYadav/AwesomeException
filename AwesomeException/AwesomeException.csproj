@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -6,6 +6,7 @@
     <Authors>satishkyadav</Authors>
     <Description>AwesomeException is a library of Awesome Extensions methods for Exceptions</Description>
     <RepositoryUrl>https://github.com/iSatishYadav/AwesomeException</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
